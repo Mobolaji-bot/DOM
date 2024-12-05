@@ -1,0 +1,25 @@
+.hide {
+  display: none;
+}
+
+#gift-box {
+  font-size: 5em;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  height: 100vh;
+}
+#color-picker {
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+}
+
+#word-count-container {
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+}
